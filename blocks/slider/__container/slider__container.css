@@ -1,0 +1,17 @@
+.slider__container {
+  max-width: 1440px;
+  height: 260px;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  position: relative;
+  left: 0;
+  transition: all ease 1s;
+}
